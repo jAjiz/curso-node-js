@@ -1,0 +1,12 @@
+### Get pokemon diito
+GET http://localhost:1234/pokemon/diito
+
+### Create a new Pokemon
+POST http://localhost:1234/pokemon
+Content-Type: application/json
+
+{
+  "name": "Pikachu",
+  "type": "Electric",
+  "level": 5
+}
