@@ -21,7 +21,7 @@ Refactorización del proyecto anterior aplicando el patrón Modelo-Vista-Control
 ## 🛠️ Stack
 
 - **Express.js** - Framework web para Node.js
-- **Zod** - Validación de schemas type-safe
+- **Zod** - Validación de schemas con tipado seguro
 - **CORS** - Middleware para políticas de intercambio de recursos
 
 ## 💭 Aprendizajes
