@@ -18,15 +18,9 @@ API REST completa con **Express**, validación de datos con **Zod** y configurac
 ### Clase 4 - Arquitectura MVC
 Refactorización del proyecto anterior aplicando el patrón Modelo-Vista-Controlador. Separación en models, controllers, routes, middlewares y schemas. Uso de ES Modules.
 
-## 🛠️ Stack
-
-- **Express.js** - Framework web para Node.js
-- **Zod** - Validación de schemas con tipado seguro
-- **CORS** - Middleware para políticas de intercambio de recursos
-
 ## 💭 Aprendizajes
 
-Aunque ya tenía experiencia con JavaScript en el frontend, este curso me ha ayudado a:
+Este curso me ha ayudado a:
 
 - Entender cómo funciona Node.js por debajo (event loop, naturaleza asíncrona)
 - Trabajar con módulos nativos del core de Node.js
@@ -38,4 +32,4 @@ El contenido está bien organizado y va de lo más básico a conceptos más avan
 
 ---
 
-⭐ [Curso original de midudev en YouTube](https://www.youtube.com/playlist?list=PLUofhDIg_38qm2oPOV-IRTTEKyrVBBaU7)
+Gracias a [midudev](https://midu.dev) por este excelente curso.
