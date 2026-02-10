@@ -10,10 +10,10 @@ Vengo del desarrollo web con JavaScript, así que este curso me ha servido para 
 Módulos nativos de Node.js: `fs`, `http`, `path`, `os`, `process`. Manejo de operaciones asíncronas, sistemas de módulos (ESM vs CommonJS) y creación de servidores HTTP básicos.
 
 ### Clase 2 - Express
-Introducción a **Express 5.1.0**. Routing, middlewares, manejo de JSON y desarrollo con Nodemon.
+Introducción a **Express**. Routing, middlewares, manejo de JSON y desarrollo con Nodemon.
 
 ### Clase 3 - REST API
-API REST completa con **Express**, validación de datos con **Zod 4.0.5** y configuración de **CORS 2.8.5**. Implementación de CRUD, filtros y códigos HTTP correctos.
+API REST completa con **Express**, validación de datos con **Zod** y configuración de **CORS**. Implementación de CRUD, filtros y códigos HTTP correctos.
 
 ### Clase 4 - Arquitectura MVC
 Refactorización del proyecto anterior aplicando el patrón Modelo-Vista-Controlador. Separación en models, controllers, routes, middlewares y schemas. Uso de ES Modules.
