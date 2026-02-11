@@ -32,4 +32,4 @@ El contenido está bien organizado y va de lo más básico a conceptos más avan
 
 ---
 
-Gracias a [midudev](https://midu.dev) por este excelente curso.
+Gracias a [midudev](https://github.com/midudev) por este excelente curso.
